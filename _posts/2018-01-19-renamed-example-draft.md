@@ -7,7 +7,7 @@ tags: []
 related_posts: []
 
 ---
-## Renamed What are draft posts?
+## What are draft posts?
 
 This is an example of a drafsdt post. Draft posts aren't included when publishing your site.
 
