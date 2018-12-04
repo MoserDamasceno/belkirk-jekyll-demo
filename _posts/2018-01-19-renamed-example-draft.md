@@ -7,7 +7,7 @@ tags: []
 related_posts: []
 
 ---
-## What are draft posts?
+## Guest save are draft posts?
 
 This is an example of a drafsdt post. Draft posts aren't included when publishing your site.
 
